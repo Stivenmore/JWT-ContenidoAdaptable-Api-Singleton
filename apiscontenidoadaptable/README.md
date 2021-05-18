@@ -1,7 +1,8 @@
-# apiscontenidoadaptable
+# Apis, Contanido Adaptable, Singleton JWT
 
-A new Flutter project.
+Este nuevo proyecto te enseñara como puedes manejar contenido adaptable, Singleton para Apis y mucho mas.
 
+Ejecicio practico realizado en base al curso del docente Darwin Morocho.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
