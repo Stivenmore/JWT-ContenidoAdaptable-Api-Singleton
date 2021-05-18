@@ -4,7 +4,7 @@ Este nuevo proyecto te enseñara como puedes manejar contenido adaptable, Single
 
 Ejecicio practico realizado en base al curso del docente Darwin Morocho.
 
-Si quieres aprender algo de Cubit y Testing, tambien es para ti, pues luego de terminarlo, planeo implementarlo cn Cubit y hacer algo de testing 
+Si quieres aprender algo de Cubit y Testing, tambien es para ti, pues luego de terminarlo, planeo implementarlo con Cubit y hacer algo de testing con inyeccion de dependencias
 ## Getting Started
 
 This project is a starting point for a Flutter application.
